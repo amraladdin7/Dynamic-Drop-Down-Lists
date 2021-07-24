@@ -1,5 +1,5 @@
 let flag = true;
-const text = document.getElementsByTagName('body');
+const text = document.getElementsByTagName('div');
 const para = document.createElement('p');
 let frag = document.createDocumentFragment();
 para.id = 'para';
