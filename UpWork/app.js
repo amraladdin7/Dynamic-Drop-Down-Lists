@@ -1,9 +1,9 @@
 let flag = true;
-const text = document.getElementsByTagName('div');
+const text = document.getElementsByTagName('body');
 const para = document.createElement('p');
 let frag = document.createDocumentFragment();
 para.id = 'para';
-const stopValue = text[0].innerHTML.length;
+const stopValue = text[0].innerText.length;
 frag.appendChild(para);
 const choices = [];
 let currSpan;
