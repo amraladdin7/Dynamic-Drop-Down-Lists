@@ -8,13 +8,15 @@
 1. Searching the existing text for special characters.
 2. Creating the list dynamically.
 3. Placing the list in the right place.
+4. Excluding text at the End.
 
 ## Functionality to be acheived:
 
-1. Excluding the unnecessary text at the end.
-2. Shuffling the options.
-3. Creating the spans of "::::" dynamically.
-4. Creating an Event Listener on those spans no matter how many they are.
-5. On click showing the choices of answers.
+1. Shuffling the options.
+2. Creating the spans of "::::" dynamically.
+3. Creating an Event Listener on those spans no matter how many they are.
+4. On click showing the choices of answers.
+
+
 
 I attemped some of the functionality in comments in the app.js file.
