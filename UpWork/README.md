@@ -1,15 +1,15 @@
-##This Project consists of:
+# This Project consists of:
 
 1. Example.html (sample input code)
 2. app.js (my application layer to acheive functionality)
 
-#The functionality acheived so far:
+## The functionality acheived so far:
 
 1. Searching the existing text for special characters.
 2. Creating the list dynamically.
 3. Placing the list in the right place.
 
-#Functionality to be acheived:
+## Functionality to be acheived:
 
 1. Excluding the unnecessary text at the end.
 2. Shuffling the options.
