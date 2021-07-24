@@ -9,13 +9,13 @@
 2. Creating the list dynamically.
 3. Placing the list in the right place.
 4. Excluding text at the End.
+5. Shuffling the options.
 
 ## Functionality to be acheived:
 
-1. Shuffling the options.
-2. Creating the spans of "::::" dynamically.
-3. Creating an Event Listener on those spans no matter how many they are.
-4. On click showing the choices of answers.
+1. Creating the spans of "::::" dynamically.
+2. Creating an Event Listener on those spans no matter how many they are.
+3. On click showing the choices of answers.
 
 
 
